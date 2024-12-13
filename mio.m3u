@@ -1,7 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca UNO -2 Horas (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",MEX-Azteca UNO -2 Horas (L)(SD)
-http://tv.zeuspro.xyz:8080/AquilesSolorzano27/qKSvAKCu8W/87575
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca UNO (L)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",MEX-Azteca UNO (L)(720)
 http://tv.zeuspro.xyz:8080/AquilesSolorzano27/qKSvAKCu8W/87576
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas (L)(720)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",MEX-Las Estrellas (L)(720)
